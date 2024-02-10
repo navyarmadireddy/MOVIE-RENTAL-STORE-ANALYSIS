@@ -13,35 +13,35 @@ Questions are important to get the objective of our analysis and to generate ins
 
 #### Movies Analysis Key Questions:
 
-[1] Counting the number of characters except for the spaces for each actor.
+[1] Count the number of characters except for the spaces for each actor. Return the first 10 actors' name lengths along with their names.
 
-[2] Listing all Oscar awardees with their full names and the length of their names.
+[2] List all Oscar awardees(Actors who received the Oscar award) with their full names and the length of their names.
 
-[3]Finding the actors who have acted in the film ‘Frost Head.’
+[3] Find the actors who have acted in the film ‘Frost Head.’
 
-[4]Pulling all the films acted by the actor ‘Will Wilson.’
+[4] Pull all the films acted by the actor ‘Will Wilson.’
 
-[5]Pulling all the films which were rented and returned in the month of May.
+[5] Pull all the films which were rented and returned in the month of May.
 
-[6]Pulling all the films with ‘Comedy’ category.
+[6] Pull all the films with ‘Comedy’ category.
 
 #### Business Operation Analysis Key Questions:
 
-[1]Who are the staff members, and which store do they work in?
+[1] Who are the staff members, and which store do they work in?
 
-[2]How is the inventory distributed between the two stores?
+[2] How is the inventory distributed between the two stores?
 
-[3]How many active customers does each store have?
+[3] How many active customers does each store have?
 
-[4]What is the count of customer email addresses stored in the database?
+[4] What is the count of customer email addresses stored in the database?
 
-[5]How diverse is the film offering in terms of unique titles and categories at each store?
+[5] How diverse is the film offering in terms of unique titles and categories at each store?
 
-[6]What are the least expensive, most expensive, and average replacement costs of films?
+[6] What are the least expensive, most expensive, and average replacement costs of films?
 
-[7]What is the average and maximum payment processed?
+[7] What is the average and maximum payment processed?
 
-[8]Who are the highest volume customers based on rental counts?
+[8] Who are the highest volume customers based on rental counts?
 
 
 # Insights
