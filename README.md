@@ -68,12 +68,12 @@ Following inferences can be drawn from the SQL Analysis;
 - Insight: The count of active customers at each store indicates store performance and customer engagement levels.
 - Action: Compare the performance of each store against benchmarks to assess relative performance.Allocate resources and marketing efforts based on the level of customer engagement at each store.
 
-### [4] Customer Behavior and Financial Metrics:
+### [5] Customer Behavior and Financial Metrics:
 
 - Insight: Based on the films rented and returned we can analyze Customer rental behavior and Based on replacement cost, payment processed we can provide insights into revenue trends and potential fraud risks.
 - Action: Implement monitoring systems to detect fraudulent activities and optimize payment processing procedures to streamline operations and reduce risks.
 
-### [5] Data Security:
+### [6] Data Security:
 
 - Insight: The substantial number of customer email addresses stored highlights the importance of data security measures.
 - Action: Strengthen data security measures to protect customer information and use insights from high-volume customers to develop targeted marketing strategies or loyalty programs. 
